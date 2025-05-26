@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="BatMobile" size="1.000000 0.563333" />
+    <ImageTarget name="candi_sambisari" size="1.000000 1.000000" />
+    <ImageTarget name="candi_watugenuk" size="1.000000 1.000000" />
+    <ImageTarget name="candi_prasada" size="1.000000 1.000000" />
+    <ImageTarget name="candi_karang" size="1.000000 1.000000" />
+    <ImageTarget name="cania_cangkuang" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
