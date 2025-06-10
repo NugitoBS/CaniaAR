@@ -1,5 +1,5 @@
 # CaniaAR
-CaniaAR is a mobile application using Augmented Reality (AR) to display temples in Indonesia. (**Requires a camera to run this application*)<br>
+CaniaAR is a mobile application using Augmented Reality (AR) to display some temples located in Indonesia, and get information about that temple. (**Requires a camera to run this application*)<br>
 There are 6 temples in CaniaAR.<br><br>
 
 ***Notes**
