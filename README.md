@@ -6,6 +6,9 @@ There are 6 temples in CaniaAR.<br><br>
 - There is 1 file that cannot be uploaded to GitHub because the file is too large. Please download the file in google drive: https://drive.google.com/drive/folders/1EefCffRZ9yF1MQ3gKFLYNHnL-CPcK_4n?usp=sharing
 - The file name in google drive is "com.ptc.vuforia.engine-10.29.6.tgz". After downloaded the file, put the file in CaniaAR\Packages.<br><br>
 
+**Video of CaniaAR**
+- https://drive.google.com/drive/folders/1ZJ9nYorloKBopz_ocl-rtNujsXfnZ4iA?usp=sharing
+
 ## ⚠️Disclaimer
 - This project is not intended for commercial use and is only for demonstration purposes as needed in completing the assignment.<br>
 - Some assets used in this project may come from third parties.<br>
